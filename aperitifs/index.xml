@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aperitifs on Notre livre de recettes</title>
+    <link>https://nicolasjouvray.github.io/aperitifs/</link>
+    <description>Recent content in Aperitifs on Notre livre de recettes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 09 Aug 2019 11:57:17 +0200</lastBuildDate>
+    
+	<atom:link href="https://nicolasjouvray.github.io/aperitifs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hoummous</title>
+      <link>https://nicolasjouvray.github.io/aperitifs/hoummous/</link>
+      <pubDate>Fri, 09 Aug 2019 11:56:37 +0200</pubDate>
+      
+      <guid>https://nicolasjouvray.github.io/aperitifs/hoummous/</guid>
+      <description>Temps de préparation : 10 minutes Ingrédients pour 6 personnes  200 g de pois chiches cuits 1 gousse d’ail 1&amp;frasl;2 citron jaune 2 c. à s. d’huile d’olive 2 c. à s. d’eau 1 c. à c. de graines de cumin Sel, poivre  Préparation  Versez tous les ingrédients dans le bol multifonction équipé du couteau.
+ Installez le bol multifonction. Réglez le variateur de vitesse sur 3.</description>
+    </item>
+    
+  </channel>
+</rss>
