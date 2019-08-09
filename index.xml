@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notre livre de recettes</title>
+    <link>https://nicolasjouvray.github.io/</link>
+    <description>Recent content on Notre livre de recettes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Fri, 09 Aug 2019 09:29:01 +0200</lastBuildDate>
+    
+	<atom:link href="https://nicolasjouvray.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Petites seiches à la tomate</title>
+      <link>https://nicolasjouvray.github.io/plats/petites-seiches-tomate/</link>
+      <pubDate>Fri, 09 Aug 2019 09:29:01 +0200</pubDate>
+      
+      <guid>https://nicolasjouvray.github.io/plats/petites-seiches-tomate/</guid>
+      <description> Ingrédients pour 4 personnes  Petites seiches Picard non décongelées: 500 g Ail : 4 gousses moyennes Ras El-Hanout Sauce tomate  Préparation  Mettre un peu d&amp;rsquo;huile d&amp;rsquo;olives dans une poële Faire revenir les petites seiches Pendant ce temps, couper l&amp;rsquo;ail en petits morceaux Jeter l&amp;rsquo;eau rendue par la décongélation Mettre une noisette de beurre et faire revenir les petites seiches Ajouter la sauce tomate Saler, poivrer et ajouter quelques pincées de Ras El-Hanout Laisser cuire doucement (temps de cuisson total : 45 minutes) en ajoutant régulièrement un peu d&amp;rsquo;eau si besoin  </description>
+    </item>
+    
+  </channel>
+</rss>
